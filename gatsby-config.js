@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Starter Site for Gatsby Theme Musician",
-    description: "",
-    siteUrl: "https://github.com/ekafyi/starter-musician-theme"
+    title: "Mega Ultra Studios",
+    description: "Mega Ultra Studios produces Music Videos, Short and Feature Length Films, and Promotional Videos for artists, performers, and small businesses.",
+    siteUrl: "https://megaultra.space"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
